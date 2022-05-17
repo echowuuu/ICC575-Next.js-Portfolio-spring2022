@@ -5,7 +5,7 @@ export default function FirstPost() {
   return (
     <>
     <Head>
-    <title>first post | Dovely wei
+    <title>first post | Yifei Wu
 
     </title>
     <meta 

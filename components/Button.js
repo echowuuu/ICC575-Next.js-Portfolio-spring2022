@@ -19,10 +19,10 @@ export default function Button({ label, variant, path })
 
     
     return <button className={buttonClasses}> 
-    <Link href={path}>
-    <a>
-      {label}
-    </a>
-    </Link>
+        <Link href={path}>
+           <a>
+              {label}
+          </a>
+        </Link>
     </button>
 }

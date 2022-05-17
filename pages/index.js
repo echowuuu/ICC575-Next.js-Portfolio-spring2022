@@ -28,7 +28,7 @@ export default function Home({ items }) {
   return (
     <Layout>
       <Head>
-        <title>Dovely Wei</title>
+        <title>Yifei Wu</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
